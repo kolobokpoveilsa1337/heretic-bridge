@@ -10,8 +10,11 @@ Illustrious XL / SDXL, ComfyUI рисует кадры, а затем та же 
 языковая модель осматривает готовую картинку и выносит вердикт.
 
 В моем случае: r5 5600, 48gb ram, cmp90hx 10gb, rtx3070ti 8gb
-Для модели в Lm studio нужно включить llama.cpp Arguments Override (находится в конце списка в Load model).
-Пролистать вниз и добавить аргумент --chat-template-file в соседнее поле вписать путь к nothink.jinja (...heretic-bridge\nothink.jinja)
+Для модели в Lm studio нужно включить 
+llama.cpp Arguments Override (находится в конце списка в Load model).
+Пролистать вниз
+добавить аргумент --chat-template-file
+в соседнее поле вписать путь к nothink.jinja (...heretic-bridge\nothink.jinja)
 
 =====================================================================
 1. АРХИТЕКТУРА

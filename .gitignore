@@ -1,0 +1,27 @@
+# Личные данные и конфиги
+config.json
+memory.json
+chats.json
+chat_history.json
+last_shot.json
+llm_debug.json
+ideas.json
+
+# Сгенерированные файлы
+generated/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Система
+Thumbs.db
+desktop.ini
+.DS_Store

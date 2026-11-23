@@ -1,4 +1,4 @@
-<img width="1918" height="919" alt="Скриншот-20261122-010626" src="https://github.com/user-attachments/assets/a282be80-4a15-4059-9524-8089127fd15d" />
+<img width="1920" height="920" alt="Скриншот-20261124-000800" src="https://github.com/user-attachments/assets/d4d537ba-7b5f-4156-adb3-42d9337eff20" />
 
 HERETIC · KoloBokPove$ilsa Studio
 
